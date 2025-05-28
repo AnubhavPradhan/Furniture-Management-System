@@ -1,0 +1,6 @@
+1,HNI Corporation,Bunk Bed,100,$400
+2,HNI Haworth Inc,Twin Bed,150,$600
+3,Kimba Furniture,Sleeper Sofa,80,$200
+4,KEA Sweden Inc,Corner sofa,50,$350
+5,USA Corporation,Armchair,130,$150
+6,UAE Corporation,Desk chair,200,$100
